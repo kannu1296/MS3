@@ -2,6 +2,11 @@ package read.write;
 
 import java.util.List;
 
+/**
+ * A shopping cart used to implement ReadWrite lock
+ * We can read multiple products at the same time, but we
+ * write one product at a time
+ */
 public class ShoppingCartImpl implements ShoppingCart {
 
     private List<String> wishList;
@@ -11,9 +16,9 @@ public class ShoppingCartImpl implements ShoppingCart {
     }
 
     @Override
-    public String getProduct(){
+    public List<String> getProduct(){
         if(!wishList.isEmpty())
-            return wishList.get(0);
+            return wishList;
         return null;
     }
 

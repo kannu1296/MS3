@@ -1,9 +1,11 @@
 package read.write;
 
 import java.util.ArrayList;
-import java.util.concurrent.locks.ReadWriteLock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
+/**
+ * Utility to test ReadWrite lock
+ */
 public class ReadWriteWishlist {
 
     public static void main(String[] args) {
@@ -15,15 +17,12 @@ public class ReadWriteWishlist {
             public void run() {
                 ReentrantReadWriteLock.ReadLock rl = readWriteLock.readLock();
                 try {
-                    //obtain read lock, so that no write occur during reading
-                    rl.lock();
-                    //read from shared object
-                    System.out.println(shoppingCart.getProduct());
+                    rl.lock();  //obtain read lock, so that no write occur during reading
+                    System.out.println(shoppingCart.getProduct());  //read from shared object
                     Thread.sleep(1000);
                 } catch (InterruptedException e) {	}
                 finally {
-                    //release read lock
-                    rl.unlock();
+                    rl.unlock();    //release read lock
                 }
             }
         });
@@ -32,48 +31,65 @@ public class ReadWriteWishlist {
             public void run() {
                 ReentrantReadWriteLock.ReadLock rl = readWriteLock.readLock();
                 try {
-                    //obtain read lock, so that no write occur during reading
-                    rl.lock();
-                    //read from shared object
-                    System.out.println(shoppingCart.getProduct());
+                    rl.lock();  //obtain read lock, so that no write occur during reading
+                    System.out.println(shoppingCart.getProduct());  //read from shared object
                     Thread.sleep(1000);
                 } catch (InterruptedException e) {	}
                 finally {
-                    //release read lock
-                    rl.unlock();
+                    rl.unlock();    //release read lock
                 }
             }
         });
 
-        Thread threadWrite = new Thread(new Runnable() {
+        Thread threadWrite1 = new Thread(new Runnable() {
             @Override
             public void run() {
-                //get write lock
-                //lock() block current thread till it acquires write lock
-                //if you don't want to block current thread, use tryLock()
+                boolean trylock = readWriteLock.writeLock().tryLock();  //get write lock
+                if(trylock){
+                    try {
+                        if(readWriteLock.isWriteLockedByCurrentThread()) {
+                            shoppingCart.addProduct("pixel");   //write to shared object
+                            System.out.println("thread write lock obtained");
+                            Thread.sleep(1000);
+                        }
+                    }catch (InterruptedException e) {	}
+                    finally {
+                        if(readWriteLock.isWriteLockedByCurrentThread()) {
+                            readWriteLock.writeLock().unlock(); //release or unlock write lock
+                        }
+                    }
+                }
+
+            }
+        });
+
+        Thread threadWrite2 = new Thread(new Runnable() {
+            @Override
+            public void run() {
+                /**
+                 * get write lock
+                 *lock() block current thread till it acquires write lock
+                 *if you don't want to block current thread, use tryLock()
+                 */
                 readWriteLock.writeLock().lock();
                 try {
                     //if tryLock() is used, check if write lock is obtained
                     if(readWriteLock.isWriteLockedByCurrentThread()) {
-                        //write to shared object
-                        shoppingCart.addProduct("pixel");
+                        shoppingCart.addProduct("iphone");  //write to shared object
                         System.out.println("thread write lock obtained");
                         Thread.sleep(1000);
                     }
                 }catch (InterruptedException e) {	}
                 finally {
                     if(readWriteLock.isWriteLockedByCurrentThread()) {
-                        //release or unlock write lock
-                        readWriteLock.writeLock().unlock();
+                        readWriteLock.writeLock().unlock();     //release or unlock write lock
                     }
                 }
             }
         });
-        threadWrite.start();
+        threadWrite1.start();
         threadRead1.start();
+        threadWrite2.start();
         threadRead2.start();
-
     }
-
-
 }
