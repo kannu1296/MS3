@@ -1,0 +1,27 @@
+
+J
+java:S1604"(Make this anonymous inner class a lambda(ä×ªÀÿÿÿÿÿ8‰ÜôŒ/
+h
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(‚¦¡ûûÿÿÿÿ8‰ÜôŒ/
+J	java:S108")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ8‰ÜôŒ/
+J	java:S1087")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ8±¡Œ/
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(ÌéµŞÿÿÿÿÿ8öÈº¡Œ/
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(ÌéµŞÿÿÿÿÿ8ğ¿¡Œ/
+h
+java:S2142R"FEither re-interrupt this method or rethrow the "InterruptedException".(‚¦¡ûûÿÿÿÿ8öÈº¡Œ/
+h
+java:S2142%"FEither re-interrupt this method or rethrow the "InterruptedException".(‚¦¡ûûÿÿÿÿ8î—‡‘Œ/
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(ÍÚõŒ8î—‡‘Œ/
+J
+java:S1604"(Make this anonymous inner class a lambda(ğÂÅõùÿÿÿÿ8î—‡‘Œ/
+J	java:S108%")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ8î—‡‘Œ/
+J
+java:S1604B"(Make this anonymous inner class a lambda(çªöÃúÿÿÿÿ8Ğ”‘Œ/
+h
+java:S21427"FEither re-interrupt this method or rethrow the "InterruptedException".(‚¦¡ûûÿÿÿÿ8ğ¿¡Œ/
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Çµí‘8ğ¿¡Œ/
+J
+java:S1604,"(Make this anonymous inner class a lambda(Ìê•·ùÿÿÿÿ8‰ÜôŒ/
+J	java:S108R")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ8öÈº¡Œ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÍÚõŒ8‰ÜôŒ/

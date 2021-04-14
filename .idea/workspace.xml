@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a771db4-78e3-4174-8851-14c3ec01712b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/read/write/ReadWriteWishlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/read/write/ReadWriteWishlist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/read/write/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/read/write/ShoppingCart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/read/write/ShoppingCartImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/read/write/ShoppingCartImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,7 +20,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-960">
+            <state relative-caret-position="420">
               <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
             </state>
           </provider>
@@ -40,14 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/read/write/ShoppingCartImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="270">
               <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-              <folding>
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-                <element signature="e#479#480#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -55,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/read/write/ReadWriteWishlist.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="50" column="32" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
+            <state relative-caret-position="461">
+              <caret line="89" column="29" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,9 +80,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/reentrant/Ticket.java" />
         <option value="$PROJECT_DIR$/src/main/java/reentrant/TicketTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/read/write/ReadWriteWishlist.java" />
         <option value="$PROJECT_DIR$/src/main/java/read/write/ShoppingCartImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/read/write/ShoppingCart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/read/write/ReadWriteWishlist.java" />
       </list>
     </option>
   </component>
@@ -129,14 +121,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MS3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MS3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="write" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -244,9 +228,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1792" height="1027" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26206896" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26597583" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -258,13 +241,13 @@
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295238" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32857144" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.25934067" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.23076923" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3295238" />
       <window_info anchor="bottom" id="Graph Database Console" order="11" />
@@ -287,13 +270,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-960">
-          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/producer/consumer/ProducerConsumer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -301,16 +277,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/read/write/ShoppingCartImpl.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-          <folding>
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="420">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -321,10 +291,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/read/write/ShoppingCartImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/read/write/ReadWriteWishlist.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" column="32" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
+        <state relative-caret-position="461">
+          <caret line="89" column="29" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
