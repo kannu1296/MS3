@@ -3,7 +3,7 @@ package concurrency.forkjoin;
 import java.util.concurrent.RecursiveTask;
 
 public class Sum extends RecursiveTask<Integer> {
-    private final int threshold = 1000;
+    private final int threshold = 10000;
     private int data[];
     private int start, end;
 
