@@ -1,5 +1,9 @@
 package generics.bounded;
 
+/**
+ * A program to show example of upper bounded generics
+ * @param <T>
+ */
 public class ComputeAverage<T extends Number> {
     private T[] list;
 
