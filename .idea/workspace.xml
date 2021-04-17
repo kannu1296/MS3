@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a771db4-78e3-4174-8851-14c3ec01712b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/typesafety/TypeSafetyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/bounded/ComputeAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/bounded/ComputeAverageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -89,29 +91,33 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/generics/typesafety/TypeSafetyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/thread/CallMe.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/generics/bounded/ComputeAverage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+            <state relative-caret-position="45">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+              <folding>
+                <element signature="e#134#135#0" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/thread/CallerTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/generics/bounded/ComputeAverageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="76" selection-start-line="17" selection-start-column="76" selection-end-line="17" selection-end-column="76" />
+            <state relative-caret-position="180">
+              <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -174,6 +180,9 @@
         <option value="$PROJECT_DIR$/src/main/java/deadlock/Process2.java" />
         <option value="$PROJECT_DIR$/src/main/java/deadlock/DeadlockTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/generics/typesafety/TypeSafety.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/typesafety/TypeSafetyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/bounded/ComputeAverage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/bounded/ComputeAverageTest.java" />
       </list>
     </option>
   </component>
@@ -220,7 +229,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="typesafety" type="462c0819:PsiDirectoryNode" />
+              <item name="generics" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -251,20 +260,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TypeSafetyTest">
-    <configuration name="AccountTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="synchronization.AccountTesting" />
-      <module name="MS3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="synchronization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ComputeAverageTest">
     <configuration name="CallerSynchronizationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="thread.sync.CallerSynchronizationTest" />
       <module name="MS3" />
@@ -284,6 +280,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="thread.sync.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputeAverageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.bounded.ComputeAverageTest" />
+      <module name="MS3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="generics.bounded.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -319,11 +328,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComputeAverageTest" />
         <item itemvalue="Application.TypeSafetyTest" />
         <item itemvalue="Application.DeadlockTest" />
         <item itemvalue="Application.CallerTest" />
         <item itemvalue="Application.CallerSynchronizationTest" />
-        <item itemvalue="Application.AccountTesting" />
       </list>
     </recent_temporary>
   </component>
@@ -654,8 +663,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/typesafety/TypeSafetyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/bounded/ComputeAverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/bounded/ComputeAverageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
         </state>
       </provider>
     </entry>
