@@ -5,6 +5,6 @@ public class GenericMethodTest {
         boolean result = ArraySearch.isIn(2, new Integer[]{1,2,3});
         System.out.println(result);
         result = ArraySearch.isIn("One", new String[]{"Two", "Three"});
-        System.out.println(result);
+        System.out.println(result );
     }
 }
