@@ -1,6 +1,6 @@
 package designpatterns.factory;
 
-public class PizzaFactory extends BasePizzaFactory {
+public class PizzaFactory implements BasePizzaFactory {
     @Override
     public Pizza createPizza(String type) {
         Pizza pizza = null;

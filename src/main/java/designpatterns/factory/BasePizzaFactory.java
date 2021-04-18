@@ -1,5 +1,8 @@
 package designpatterns.factory;
 
-public abstract class BasePizzaFactory {
-    public abstract Pizza createPizza(String type);
+/**
+ * An interface to represent example of factory design pattern
+ */
+public interface BasePizzaFactory {
+    public Pizza createPizza(String type);
 }
