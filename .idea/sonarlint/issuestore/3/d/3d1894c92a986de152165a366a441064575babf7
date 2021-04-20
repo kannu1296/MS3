@@ -1,0 +1,8 @@
+
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¦…Ú·/
+B
+java:S2129" Remove this "String" constructor(¤ŞÇÜùÿÿÿÿ8÷£Ä·/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB8÷£Ä·/
+t
+java:S1450"RRemove the "str" field and declare it as a local variable in the relevant methods.(Ì¶Ô‡ùÿÿÿÿ8†¶é·/

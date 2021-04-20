@@ -1,0 +1,9 @@
+
+^
+java:S1444"<Make this "public static NUMBER_OF_PHILOSIPHERS" field final(ˆ‹ŸÎüÿÿÿÿ8Üã²/
+„
+java:S1104"bMake NUMBER_OF_PHILOSIPHERS a static final constant or non-public and provide accessors if needed.(ˆ‹ŸÎüÿÿÿÿ8Üã²/
+ƒ
+java:S3008"aRename this field "NUMBER_OF_PHILOSIPHERS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ‹ŸÎüÿÿÿÿ8Üã²/
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¶æÜøÿÿÿÿ8Üã²/

@@ -1,0 +1,7 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(õ óÂşÿÿÿÿ8÷­šş/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¤¼¥ï8©ì—ş/
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8á‡ªş/
+`
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(á˜ ¶8á‡ªş/
