@@ -27,9 +27,9 @@ public class Philosipher extends Thread {
     }
     public void eat(){
         try {
-            int sleepTime = ThreadLocalRandom.current().nextInt(0, 1000);
-            System.out.println("philosopher " + (num+1) + " eats for " + sleepTime);
-            Thread.sleep(sleepTime);
+            int eatTime = ThreadLocalRandom.current().nextInt(0, 1000);
+            System.out.println("philosopher " + (num+1) + " eats for " + eatTime);
+            Thread.sleep(eatTime);
         }
         catch (Exception e) {
             e.printStackTrace();

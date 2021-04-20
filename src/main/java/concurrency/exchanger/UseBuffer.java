@@ -19,7 +19,7 @@ public class UseBuffer implements Runnable {
                 for(int j=0; j<4; j++)
                     str += ch++;
                 try {
-                exchanger.exchange(str);
+                    str = exchanger.exchange(str);
             }catch (InterruptedException exception){
                     exception.printStackTrace();
                 }
