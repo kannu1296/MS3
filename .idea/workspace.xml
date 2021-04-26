@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a771db4-78e3-4174-8851-14c3ec01712b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3d1894c92a986de152165a366a441064575babf7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3d1894c92a986de152165a366a441064575babf7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f905b98d69cb2bbae7697a5554feffce205ca6e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f905b98d69cb2bbae7697a5554feffce205ca6e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/51a1554cbe8c156192af19ef685debc8fa221fa1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/51a1554cbe8c156192af19ef685debc8fa221fa1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/563dc8320acbcf59cdcf53ac2c661bb593633081" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/563dc8320acbcf59cdcf53ac2c661bb593633081" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60db3c66a137ee64c1ace6f95146afc83134b372" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60db3c66a137ee64c1ace6f95146afc83134b372" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/7172782f69a867cea6c20a13a44b8d1719208996" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/7172782f69a867cea6c20a13a44b8d1719208996" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c18d21b9420e17b0b2a9e22586847b9b32faa99" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c18d21b9420e17b0b2a9e22586847b9b32faa99" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d00534ff605b27311699cfce81f48743e74ded8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d00534ff605b27311699cfce81f48743e74ded8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6e0ff99cdfc28263901e3c91dbc6021689f275e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6e0ff99cdfc28263901e3c91dbc6021689f275e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/dfd41c218ae3041937c3ac76e97337c10ea3c761" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/dfd41c218ae3041937c3ac76e97337c10ea3c761" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e3824df2068265ca5228f0d3fb1d381421032315" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e3824df2068265ca5228f0d3fb1d381421032315" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e59a4d5702cd2717094d7d804e639a498a75db64" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e59a4d5702cd2717094d7d804e639a498a75db64" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/memory/management/BufferMemory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/memory/management/ProducerConsumerConstantsMemory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/memory/management/ProducerConsumerMemory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/memory/management/SharedResourcesMemory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,46 +22,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/solid/l/problem/Bicycle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="49" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="49" />
-              <folding>
-                <element signature="e#122#123#0" expanded="true" />
-                <element signature="e#173#174#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/solid/l/solution/TransportationDevice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/solid/l/problem/TransportationDevice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/solid/l/solution/TransportationDeviceTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/designpatterns/singleton/Database.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -79,47 +30,89 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/deadlock/DeadlockTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="285">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/solid/l/solution/DeviceWithEngine.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/producer/consumer/Buffer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/producer/consumer/ProducerConsumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/producer/consumer/SharedResources.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="9" column="53" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/memory/management/BufferMemory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/memory/management/ProducerConsumerMemory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/producer/consumer/ProducerConsumerConstants.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="58" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="58" />
+              <caret line="4" column="37" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="4" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/solid/l/solution/Bicycle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/solid/l/problem/Car.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/memory/management/ProducerConsumerConstantsMemory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/solid/l/solution/DeviceWithoutEngine.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/memory/management/SharedResourcesMemory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="90">
+              <caret line="6" column="34" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -151,10 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/designpatterns/command/CommandBase.java" />
-        <option value="$PROJECT_DIR$/src/main/java/designpatterns/command/CarMoveCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/designpatterns/command/AirplaneMoveCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/designpatterns/command/CarStopCommand.java" />
         <option value="$PROJECT_DIR$/src/main/java/designpatterns/command/AirplaneStopCommand.java" />
         <option value="$PROJECT_DIR$/src/main/java/designpatterns/command/RemoteControl.java" />
         <option value="$PROJECT_DIR$/src/main/java/designpatterns/command/CommandTest.java" />
@@ -189,7 +178,6 @@
         <option value="$PROJECT_DIR$/src/main/java/synchronization/Withdrawal.java" />
         <option value="$PROJECT_DIR$/src/main/java/producer/consumer/Buffer.java" />
         <option value="$PROJECT_DIR$/src/main/java/producer/consumer/ProducerConsumer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/deadlock/DeadlockTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/deadlock/Process1.java" />
         <option value="$PROJECT_DIR$/src/main/java/deadlock/Process2.java" />
         <option value="$PROJECT_DIR$/src/main/java/thread/sync/CallMeWithSynchronization.java" />
@@ -202,6 +190,11 @@
         <option value="$PROJECT_DIR$/src/main/java/reentrant/Ticket.java" />
         <option value="$PROJECT_DIR$/src/main/java/concurrency/forkjoin/ForkJoinTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/designpatterns/singleton/Database.java" />
+        <option value="$PROJECT_DIR$/src/main/java/deadlock/DeadlockTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/memory/management/ProducerConsumerConstantsMemory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/memory/management/SharedResourcesMemory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/memory/management/ProducerConsumerMemory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/memory/management/BufferMemory.java" />
       </list>
     </option>
   </component>
@@ -248,7 +241,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="deadlock" type="462c0819:PsiDirectoryNode" />
+              <item name="management" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MS3" type="b2602c69:ProjectViewProjectNode" />
@@ -256,16 +249,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MS3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MS3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="command" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -297,7 +281,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DeadlockTest">
+  <component name="RunManager" selected="Application.ProducerConsumerMemory">
     <configuration name="CallableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="concurrency.callable.future.future.CallableDemo" />
       <module name="MS3" />
@@ -324,12 +308,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExchangerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrency.exchanger.ExchangerTest" />
+    <configuration name="ForkJoinTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.forkjoin.ForkJoinTest" />
       <module name="MS3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concurrency.exchanger.*" />
+          <option name="PATTERN" value="concurrency.forkjoin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -337,12 +321,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForkJoinTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrency.forkjoin.ForkJoinTest" />
+    <configuration name="ProducerConsumerMemory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="memory.management.ProducerConsumerMemory" />
       <module name="MS3" />
+      <option name="VM_PARAMETERS" value="-Xmx40m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concurrency.forkjoin.*" />
+          <option name="PATTERN" value="memory.management.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -363,13 +348,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.CallableDemo" />
+      <item itemvalue="Application.DeadlockTest" />
+      <item itemvalue="Application.ForkJoinTest" />
+      <item itemvalue="Application.ProducerConsumerMemory" />
+      <item itemvalue="Application.TicketTest" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProducerConsumerMemory" />
         <item itemvalue="Application.DeadlockTest" />
         <item itemvalue="Application.ForkJoinTest" />
         <item itemvalue="Application.TicketTest" />
         <item itemvalue="Application.CallableDemo" />
-        <item itemvalue="Application.ExchangerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -388,7 +380,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1792" height="1092" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28727692" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -402,14 +393,14 @@
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295238" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2333001" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49971214" weight="0.2333001" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.23629113" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49971214" visible="true" weight="0.23629113" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50028783" side_tool="true" weight="0.23629113" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32857144" />
       <window_info anchor="bottom" id="Graph Database Console" order="11" />
       <window_info anchor="bottom" id="CheckStyle" order="12" />
@@ -471,62 +462,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/reentrant/Ticket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/reentrant/TicketTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/forkjoin/Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/forkjoin/ForkJoinTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/generics/lowerbounded/Elements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/generics/lowerbounded/ElementsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/generics/methods/ArraySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/generics/methods/GenericMethodTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/typesafety/TypeSafety.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -834,8 +769,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/deadlock/DeadlockTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="285">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/producer/consumer/ProducerConsumerConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="37" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/producer/consumer/SharedResources.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="53" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/producer/consumer/ProducerConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/producer/consumer/Buffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/memory/management/BufferMemory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/memory/management/SharedResourcesMemory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/memory/management/ProducerConsumerConstantsMemory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/memory/management/ProducerConsumerMemory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
