@@ -1,0 +1,9 @@
+
+E
+java:S1659"(Declare "offCommand" on a separate line.( ¤ÿç8Õä¢µŽ/
+u
+java:S1450"XRemove the "onCommand" field and declare it as a local variable in the relevant methods.( ¤ÿç8Ýë¥µŽ/
+v
+java:S1450"YRemove the "offCommand" field and declare it as a local variable in the relevant methods.( ¤ÿç8¨©¨µŽ/
+F
+java:S1659")Declare "undoCommand" on a separate line.( ¤ÿç8¯Ÿ£µŽ/
