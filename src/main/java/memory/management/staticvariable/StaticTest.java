@@ -1,7 +1,11 @@
 package memory.management.staticvariable;
 
+import javax.servlet.Filter;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Calendar;
 import java.util.List;
+import java.util.logging.Logger;
 
 public class StaticTest {
     public static List<Double> list = new ArrayList<>();
